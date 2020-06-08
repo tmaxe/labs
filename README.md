@@ -1,2 +1,2 @@
 # ctj_edu
-Python tasks and labs.
+Pgitython tasks and labs.

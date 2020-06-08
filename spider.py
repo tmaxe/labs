@@ -14,15 +14,3 @@ while x<c:
     turtle.forward(a)
     turtle.left(b)
     x +=1
-
-
-
-
-    
-   
-    
- 
-
-
-    
-

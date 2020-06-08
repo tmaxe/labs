@@ -1,7 +1,6 @@
 import turtle
 turtle.shape('turtle')
 
-
 x=0
 a=120
 n=11
@@ -12,16 +11,3 @@ while x < n:
     turtle.forward(a)
     turtle.left(3*c-360+360/n)
     x = x+1
-
-
-
-
-
-    
-   
-    
- 
-
-
-    
-

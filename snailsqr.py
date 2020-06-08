@@ -7,23 +7,8 @@ a=10
 n=4
 b=c/n
 
-
 while x < 32:
     turtle.forward(a)
     turtle.left(b)
     x = x+1
     a = a+4
-
-    
- 
-
-
-
-    
-   
-    
- 
-
-
-    
-

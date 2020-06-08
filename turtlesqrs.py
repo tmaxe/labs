@@ -15,8 +15,3 @@ while a <=230:
     turtle.goto(-c, -c)
     a = a+20
     c = c+10
-
-
-
-    
-

@@ -19,7 +19,7 @@ else:
     turtle.forward(c)
     turtle.pendown()
     turtle.left(r)
-   
+
 def poligon(n):
     x=0
     a=d
@@ -38,16 +38,3 @@ def poligon(n):
         turtle.left(r)
 for n in range(4,17,1):
     poligon(n)
-
-
-
-
-
-    
-   
-    
- 
-
-
-    
-

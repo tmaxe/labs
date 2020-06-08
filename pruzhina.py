@@ -25,12 +25,3 @@ def pruxhinka():
 
 for y in range (1,6,1):
     pruxhinka()
-
-    
-   
-    
- 
-
-
-    
-

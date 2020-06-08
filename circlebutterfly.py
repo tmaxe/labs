@@ -17,12 +17,3 @@ def figure_eight(c, a):
 for a in range (6,12,1):           
     figure_eight(60, a)
     turtle.right(-90)
-
-    
-   
-    
- 
-
-
-    
-
